@@ -15,3 +15,15 @@
 
 ## Screenshot &nbsp; ![badge](https://img.shields.io/badge/Website-Screenshot-orange)
 ![project9](./screen-shots/project9-screenshot.png)
+<br>
+<br>
+![](https://img.shields.io/badge/Tablet-View-yellow)
+<br>
+<br>
+![](./screen-shots/tabletview.png)
+<br>
+<br>
+![](https://img.shields.io/badge/Mobile-View-yellowgreen)
+<br>
+<br>
+![](./screen-shots/mobileview.png)
