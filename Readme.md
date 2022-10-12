@@ -1,5 +1,6 @@
 # Developer Landing Page &nbsp; ![badge](https://img.shields.io/badge/HTML%20and%20CSS-Project9-green)
-![badge](https://img.shields.io/badge/Deployed-Website-blue)&nbsp; &nbsp; [Live link](https://project-9developer-landingpage.netlify.app/)
+
+[![](https://img.shields.io/badge/Live-Link-blue)](https://project-9developer-landingpage.netlify.app/)
 
 ## Skills acquired 👨‍💻
 - How to design cards
