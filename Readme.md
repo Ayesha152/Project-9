@@ -1,4 +1,4 @@
-# Developer Landing Page &nbsp; ![badge](https://img.shields.io/badge/HTML%20and%20CSS-Project9-green)
+# Developer Landing Page &nbsp; ![badge](https://img.shields.io/badge/HTML%20and%20CSS-Project9-green) &nbsp; ![badge](https://img.shields.io/badge/-Responsive-orange)
 
 [![](https://img.shields.io/badge/Live-Link-blue)](https://project-9developer-landingpage.netlify.app/)
 
